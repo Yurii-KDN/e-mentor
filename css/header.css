@@ -1,0 +1,23 @@
+/* header */
+.navigation-style{
+    margin-top: 40px;
+    margin-left: 396px;
+    margin-right: 396px;
+    position: absolute;
+    width: 650px;
+    height: 24px;
+
+}
+.nav-buttons{
+    width: 44px;
+    height: 16px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    color: blue;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    padding-right: 30px;
+}

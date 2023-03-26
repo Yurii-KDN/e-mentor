@@ -1,0 +1,42 @@
+.benef-num{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 100%;
+    text-align: center;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #10B582;
+    width: 169px;
+    height: 58px;
+}
+
+.describing{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 120%;
+    text-align: center;
+    color: #353A5A;
+    width: 270px;
+    height: 34px;
+}
+
+.benef-table{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    border-radius: 10px;
+    width: 1170px;
+    height: 107px;
+    margin-left: 135px;
+    margin-right: 135px;
+    margin-top: 920px;
+    /* 3088px should be bottom marg */
+    margin-bottom: 0;
+    padding: 0;
+}
+.stat{
+    text-align: center;
+}
